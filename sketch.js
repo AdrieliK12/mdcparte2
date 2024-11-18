@@ -1,5 +1,5 @@
 function setup() {
-    createCanvas(5000, 1000);
+    createCanvas(1500, 1000);
     background(175, 238, 238);
     textStyle(BOLD);
     text("Digite os números que deseja encontrar o MDC", 850, 360);
